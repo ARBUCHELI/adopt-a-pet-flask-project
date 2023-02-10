@@ -49,8 +49,15 @@ pets = {
             'age': 7,
             'breed': 'Scotish Fold',
             'description': 'A serious Scottish cat.  A true gentleman and father of two kittens!',
-            'url': 'https://content.codecademy.com/programs/flask/introduction-to-flask/cat-snowflake.jpeg'
-        }
+            'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/soso.jpg'
+        },
+        {
+            'name': 'Tai Lung',
+            'age': 2,
+            'breed': 'Ragdoll',
+            'description': 'A true hunter.  If you have mice in the kitchen, this is the perfect cat for you!',
+            'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/soso.jpg'
+        },
     ],
     'rabbits': [
         {
