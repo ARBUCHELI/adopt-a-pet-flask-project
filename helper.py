@@ -86,7 +86,7 @@ pets = {
             'age': 23,
             'breed': 'Hare',
             'description': "This rabbit is a software developer (according to himself), but the only thing he has been able to program so far are bugs and that's why he was named Bugs Bunny!",
-            'url': 'https://content.codecademy.com/programs/flask/introduction-to-flask/rabbit-easter.jpeg'
+            'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/bugs.jpg'
         },
     ]
 }
