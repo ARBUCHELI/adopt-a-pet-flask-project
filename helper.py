@@ -71,7 +71,7 @@ pets = {
             'breed': 'Bicolor Cat',
             'description': 'Good friend and a lot of fun, although a bit unlucky in business and canary hunting!',
             'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/silvester.jpeg'
-        },
+        }
     ],
     'rabbits': [
         {
@@ -80,6 +80,13 @@ pets = {
             'breed': 'Mini Rex',
             'description': 'Easter is a sweet, gentle rabbit who likes spending most of the day sleeping.',
             'url': 'https://content.codecademy.com/programs/flask/introduction-to-flask/rabbit-easter.jpeg'
-        }
+        },
+        {
+            'name': 'Bugs Bunny',
+            'age': 23,
+            'breed': 'Hare',
+            'description': "This rabbit is a software developer (according to himself), but the only thing he has been able to program so far are bugs and that's why he was named Bugs Bunny!",
+            'url': 'https://content.codecademy.com/programs/flask/introduction-to-flask/rabbit-easter.jpeg'
+        },
     ]
 }
