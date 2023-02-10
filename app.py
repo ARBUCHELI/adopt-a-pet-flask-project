@@ -29,6 +29,8 @@ def animals(pet_type):
   for idx, item in enumerate(pets[pet_type]):
     html += f'<li style="color: #c94c4c"><a href="/animals/{pet_type}/{idx}">' + item["name"] +'</a></li>'
   html += '</ul>'
+  html += f'<a style = "color: #36486b; font-family: Courier New, monospace; font-size: 1em; margin-bottom: 3em; position: fixed; left: 0; bottom: 0; width: 100%; text-align: center; font-weight: bold;"href="https://www.freepik.com/free-vector/cute-dog-playing-box-cartoon-illustration-animal-nature-concept-isolated-flat-cartoon_11189732.htm#query=puppy&position=7&from_view=search&track=sph#position=7&query=puppy?verify-email=success" target="_blank">Image by catalyststuff on Freepik</a>'
+  html += f'<footer style = "color: #c94c4c; font-family: Courier New, monospace; font-size: 1.5em; margin-bottom: 3em; position: fixed; left: 0; bottom: 0; width: 100%; text-align: center; font-weight: bold;">Bucheli © Web Development 2023</footer>'
   return html
 
 @app.route('/animals/<pet_type>/<int:pet_id>')

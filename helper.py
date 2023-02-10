@@ -13,7 +13,15 @@ pets = {
             'breed': 'Border Collie',
             'description': 'Eager and curious, Shadow enjoys company and can always be found tagging along at your heels!',
             'url': 'https://content.codecademy.com/programs/flask/introduction-to-flask/dog-shadow.jpeg'
-        }
+        },
+         {
+            'name': 'Luna',
+            'age': 13,
+            'breed': 'English Pointer',
+            'description': 'Active, playful and greedy.  If you never want to feel alone during a meal and you like hunting, adopt this fabulous dog.!',
+            'url': 'https://content.codecademy.com/programs/flask/introduction-to-flask/dog-shadow.jpeg'
+        },
+
     ],
     'cats': [
         {
