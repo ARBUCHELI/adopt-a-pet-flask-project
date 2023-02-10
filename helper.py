@@ -33,7 +33,7 @@ pets = {
             'age': 16,
             'breed': 'Labradoodle mixed with God knows what else',
             'description': 'This dog is completely crazy.  If you love fun, Chucho is a friend with whom you will always find something interesting to do.!',
-            'url': ''
+            'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/labradoodle.jpg'
         }
     ],
     'cats': [
