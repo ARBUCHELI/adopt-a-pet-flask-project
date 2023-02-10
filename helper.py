@@ -26,8 +26,15 @@ pets = {
             'age': 10,
             'breed': 'Basque Shepherd',
             'description': 'Inti is the calmest dog in the world.  He is almost the reincarnation of the Dalai Lama.  If you have small children and an unconditional friend, there is no better dog than Inti!',
-            'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/english_pointer.jpg'
+            'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/Basque%20Shepherd.jpg'
         },
+         {
+            'name': 'Chucho',
+            'age': 16,
+            'breed': 'Labradoodle mixed with God knows what else',
+            'description': 'This dog is completely crazy.  If you love fun, Chucho is a friend with whom you will always find something interesting to do.!',
+            'url': ''
+        }
     ],
     'cats': [
         {
