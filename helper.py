@@ -19,9 +19,15 @@ pets = {
             'age': 13,
             'breed': 'English Pointer',
             'description': 'Active, playful and greedy.  If you never want to feel alone during a meal and you like hunting, adopt this fabulous dog.!',
-            'url': 'https://content.codecademy.com/programs/flask/introduction-to-flask/dog-shadow.jpeg'
+            'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/english_pointer.jpg'
         },
-
+         {
+            'name': 'Inti',
+            'age': 10,
+            'breed': 'Basque Shepherd',
+            'description': 'Inti is the calmest dog in the world.  He is almost the reincarnation of the Dalai Lama.  If you have small children and an unconditional friend, there is no better dog than Inti!',
+            'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/english_pointer.jpg'
+        },
     ],
     'cats': [
         {
