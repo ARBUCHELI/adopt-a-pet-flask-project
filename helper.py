@@ -18,11 +18,11 @@ pets = {
             'name': 'Luna',
             'age': 13,
             'breed': 'English Pointer',
-            'description': 'Active, playful and greedy.  If you never want to feel alone during a meal and you like hunting, adopt this fabulous dog.!',
+            'description': 'Active, playful and greedy.  If you never want to feel alone during a meal and you like hunting, adopt this fabulous dog!',
             'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/english_pointer.jpg'
         },
          {
-            'name': 'Inti',
+            'name': 'Leon',
             'age': 10,
             'breed': 'Basque Shepherd',
             'description': 'Inti is the calmest dog in the world.  He is almost the reincarnation of the Dalai Lama.  If you have small children and an unconditional friend, there is no better dog than Inti!',
@@ -32,7 +32,7 @@ pets = {
             'name': 'Chucho',
             'age': 16,
             'breed': 'Labradoodle mixed with God knows what else',
-            'description': 'This dog is completely crazy.  If you love fun, Chucho is a friend with whom you will always find something interesting to do.!',
+            'description': 'This dog is completely crazy.  If you love fun, Chucho is a friend with whom you will always find something interesting to do!',
             'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/labradoodle.jpg'
         }
     ],
@@ -42,6 +42,13 @@ pets = {
             'age': 1,
             'breed': 'Tabby',
             'description': 'Snowflake is a playful kitten who loves roaming the house and exploring.',
+            'url': 'https://content.codecademy.com/programs/flask/introduction-to-flask/cat-snowflake.jpeg'
+        },
+        {
+            'name': 'Soso Veselovsky',
+            'age': 7,
+            'breed': 'Scotish Fold',
+            'description': 'A serious Scottish cat.  A true gentleman and father of two kittens!',
             'url': 'https://content.codecademy.com/programs/flask/introduction-to-flask/cat-snowflake.jpeg'
         }
     ],
