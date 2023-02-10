@@ -59,7 +59,7 @@ pets = {
             'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/Tailung.jpg'
         },
         {
-            'name': 'Garfiledcito',
+            'name': 'Garfieldcito',
             'age': 5,
             'breed': 'Persian',
             'description': 'Like his famous ancestor, this cat is an inveterate glutton and a lazy sloth.  The perfect companion if you like watching movies and eating pizza all weekend long!',

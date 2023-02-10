@@ -38,12 +38,13 @@ def pet(pet_type, pet_id):
   pet = pets[pet_type][pet_id]
   return f'''
   <html = f'<html style="background-color: #cfe0e8; margin-top: 1em;">
-    <h1>{pet["name"]}</h1>
-    <img src="{pet["url"]}"/>
-    <p>{pet["description"]}</p>
-    <ul>
-      <li>{pet["breed"]}</li>
-      <li>{pet["age"]}</li>
+    <h1 style="color: #c94c4c; text-align: center; font-family: 'Courier New', monospace; font-size: 4em; font-weight: bold;">{pet["name"]}</h1>
+    <img style=" display: block; margin-left: auto; margin-right: auto; border-radius: 5px; border: 1px solid #c94c4c" src="{pet["url"]}" width="280" height="250"/>
+    <p style = "text-align: center; color: #034f84; font-family: 'Courier New', monospace; font-size: 1.5em;"><span style="font-weight: bold;">DESCRIPTION: </span>{pet["description"]}</p>
+    <ul style = "text-align: center; color: #034f84; font-family: 'Courier New', monospace; font-size: 1.5em; list-style: none;">
+      <li><span style="font-weight: bold;">BREED: </span>{pet["breed"]}</li>
+      <li><span style="font-weight: bold;">AGE: </span>{pet["age"]} years young</li>
     </ul>
   </html>
+  <footer style = "color: #c94c4c; font-family: 'Courier New', monospace; font-size: 1.5em; margin-bottom: 3em; position: fixed; left: 0; bottom: 0; width: 100%; text-align: center; font-weight: bold;">Bucheli © Web Development 2023</footer>
   '''
