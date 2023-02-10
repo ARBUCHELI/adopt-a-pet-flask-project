@@ -70,7 +70,7 @@ pets = {
             'age': 3,
             'breed': 'Bicolor Cat',
             'description': 'Good friend and a lot of fun, although a bit unlucky in business and canary hunting!',
-            'url': ''
+            'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/silvester.jpeg'
         },
     ],
     'rabbits': [
