@@ -23,7 +23,8 @@ def index():
 def animals(pet_type):
   html = f'<html style="background-color: #cfe0e8; margin-top: 1em;">'
   html += f'<h1 style="color: #c94c4c; text-align: center; font-family: Courier New, monospace; font-size: 4em; font-weight: bold">List of {pet_type}</h1>'
-  html += f'<img style=" display: block; margin-left: auto; margin-right: auto; border-radius: 5px; border: 1px solid #c94c4c" src="https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/dog.jpg" alt="Dogs" width="200" height="200">'
+  html += f'<img style=" display: block; margin-left: auto; margin-right: auto; border-radius: 5px; border: 1px solid #c94c4c" src="https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/puppy.jpg" alt="Puppy" width="200" height="200">'
+  html += f'<h2 style = "text-align: center; color: #034f84; font-family: 'Courier New', monospace; font-size: 1.5em; margin-bottom: 3em;">Here you can choose a puppy for adoption!</h2>'
   html += '<ul>'
   for idx, item in enumerate(pets[pet_type]):
     html += f'<li><a href="/animals/{pet_type}/{idx}">' + item["name"] +'</a></li>'
