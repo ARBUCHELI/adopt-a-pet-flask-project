@@ -88,7 +88,7 @@ pets = {
             'description': "This rabbit is a software developer (according to himself), but the only thing he has been able to program so far are bugs and that's why he was named Bugs Bunny!",
             'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/bugs.jpg'
         },
-         {
+        {
             'name': 'Roger',
             'age': 45,
             'breed': 'American White Rabbit',
