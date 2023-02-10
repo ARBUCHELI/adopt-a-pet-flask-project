@@ -25,7 +25,7 @@ pets = {
             'name': 'Leon',
             'age': 10,
             'breed': 'Basque Shepherd',
-            'description': 'Inti is the calmest dog in the world.  He is almost the reincarnation of the Dalai Lama.  If you have small children and an unconditional friend, there is no better dog than Inti!',
+            'description': 'Leon is the calmest dog in the world.  Probably he is the reincarnation of The Buddha.  If you have small children and an unconditional friend, there is no better dog than Inti!',
             'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/Basque%20Shepherd.jpg'
         },
          {
