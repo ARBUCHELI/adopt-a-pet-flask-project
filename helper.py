@@ -63,7 +63,14 @@ pets = {
             'age': 5,
             'breed': 'Persian',
             'description': 'Like his famous ancestor, this cat is an inveterate glutton and a lazy sloth.  The perfect companion if you like watching movies and eating pizza all weekend long!',
-            'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/Tailung.jpg'
+            'url': 'https://raw.githubusercontent.com/ARBUCHELI/adopt-a-pet-flask-project/master/garfieldcito.jpg'
+        },
+        {
+            'name': 'Silvester Scatione',
+            'age': 3,
+            'breed': 'Bicolor Cat',
+            'description': 'Good friend and a lot of fun, although a bit unlucky in business and canary hunting!',
+            'url': ''
         },
     ],
     'rabbits': [
